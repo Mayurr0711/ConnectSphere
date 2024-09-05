@@ -6,7 +6,7 @@ ConnectSphere is an engaging social media application project aimed at developin
 
 - **User Authentication** : Implement a secure authentication system that includes user registration, login, and password recovery functionalities.
 - **User Profiles** : Allow users to create and customize their profiles with personal information, profile pictures, and bio sections.
-- **Messaging** : Introduce a basic messaging system where users can send and receive messages from anyone
+- **Messaging** : Introduce a basic messaging system where users can send and receive messages from anyone.
 
 ## Technologies Used
 
